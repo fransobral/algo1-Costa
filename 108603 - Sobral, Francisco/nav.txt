@@ -1,0 +1,6 @@
+Costa7565, Costa Cruceros, Barcelona, 0705, 2500, 250, estimado
+MSC8796, MSC Cruceros, Atenas, 0730, 1900, 198, estimado
+MSC8700, MSC, Barcelona, 0710, 1500, 245, demorado
+IT53, Naviera Italo, Nápoles, 0650, 33, 87, arribando
+MS932, Mediterranean Shipping, Suez Egipto, 0655, 15, 200, arribando
+CMA43, CMA CGM, Melilla Marruecos, 0735, 33, 244, demorado
